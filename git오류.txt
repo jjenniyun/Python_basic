@@ -1,0 +1,4 @@
+git error (commit) → git reset --hard HEAD~1
+do this 
+reference : "https://www.delftstack.com/ko/howto/git/git-remove-unpushed-commit/"
+thank you so much 
